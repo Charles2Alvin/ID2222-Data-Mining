@@ -7,15 +7,15 @@ import java.util.TreeSet;
 public class Shingling {
     private NovelReader novelReader;
     private int k;
-    private Set<String> shingleSet;
+    private Set<Integer> shingleSet;
 
     public Shingling(int k, NovelReader novelReader) {
         this.k = k;
         this.novelReader = novelReader;
-        this.shingleSet = new TreeSet<String>();
+        this.shingleSet = new TreeSet<Integer>();
     }
 
-    public Set<String> getShingleSet() {
+    public Set<Integer> getShingleSet() {
         return shingleSet;
     }
 
@@ -25,7 +25,9 @@ public class Shingling {
                 replaceAll("[`~!@#$%^&*()+=|{}':;',\\[\\].<>/?~！@#￥%……&;*（）——+|{}【】‘；：”“’。，、？|-]", "");
 
         for (int i = 0; i < text.length() - k; i++) {
-            shingleSet.add(text.substring(i, i + k));
+            int shingle = text.substring(i, i + k).hashCode();
+            if (!shingleSet.contains(shingle))
+                shingleSet.add(shingle);
         }
 
     }
