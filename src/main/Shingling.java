@@ -29,6 +29,5 @@ public class Shingling {
             if (!shingleSet.contains(shingle))
                 shingleSet.add(shingle);
         }
-
     }
 }
