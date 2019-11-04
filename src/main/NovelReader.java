@@ -1,5 +1,8 @@
+package main;
+
 public class NovelReader {
-    public String d() {
+    public String add() {
         return null;
     }
+
 }
