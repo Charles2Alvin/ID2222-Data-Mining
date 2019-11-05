@@ -16,6 +16,12 @@ public class Main {
         s3.generate("src/resources/A Scandal in Bohemia ch3.txt");
         Shingling s4 = new Shingling(9, new NovelReader());
         s4.generate("src/resources/Moon and sixpence 1.txt");
+
+        //compare jaccardSimilarity of s1 and s2
+        CompareSets compareSets = new CompareSets();
+        double s1compares2 = compareSets.jaccardSimilarity(s1.getShingleSet(), s2.getShingleSet());
+        System.out.println("The Jaccard similarity of two sets is:"+s1compares2);
+
         LinkedList<Set<Integer>> documents = new LinkedList<>();
         documents.add(s1.getShingleSet());
         documents.add(s2.getShingleSet());
