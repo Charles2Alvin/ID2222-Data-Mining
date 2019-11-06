@@ -38,7 +38,7 @@ public class MinHashing {
             }
         }
     }
-    public void buildSignatureMatrix() {
+    public int[][] buildSignatureMatrix() {
         if (characteristic == null) buildCharaMatrix();
         if (printInfo) System.out.println("> generating signature matrix...");
         signatureMatrix = new int[numPermutes][];
@@ -68,7 +68,7 @@ public class MinHashing {
             printMatrix(signatureMatrix);
         }
         fillSimilarity();
-
+        return signatureMatrix;
     }
     public float colSimilarity(int p, int q) {
         if (p == q) return 1f;
