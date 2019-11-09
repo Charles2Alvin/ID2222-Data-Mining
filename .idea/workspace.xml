@@ -2,11 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7ccee65-c66a-4d88-8e59-068fcafe3b2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mohaitao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ID2222-Data-Mining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ID2222-Data-Mining.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/A Scandal in Bohemia ch1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/A Scandal in Bohemia ch1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/A Scandal in Bohemia ch2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/A Scandal in Bohemia ch2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/A Scandal in Bohemia ch3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/A Scandal in Bohemia ch3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/META-INF/ID2222-Data-Mining.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/META-INF/ID2222-Data-Mining.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/CompareSets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/CompareSets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/LSH.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/LSH.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/MinHashing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/MinHashing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/MinHashing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MinHashing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/NovelReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/Shingling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/main/Shingling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/resources/A Scandal in Bohemia ch1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/resources/A Scandal in Bohemia ch1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/resources/A Scandal in Bohemia ch2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/resources/A Scandal in Bohemia ch2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/resources/A Scandal in Bohemia ch3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/resources/A Scandal in Bohemia ch3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/test/LshTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/test/LshTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/test/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ID2222-Data-Mining/test/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/report1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/CompareSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/main/CompareSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/main/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/LSH.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/main/LSH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MinHashing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/main/MinHashing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/main/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Shingling.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/main/Shingling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/A Scandal in Bohemia ch1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/resources/A Scandal in Bohemia ch1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/A Scandal in Bohemia ch2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/resources/A Scandal in Bohemia ch2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/A Scandal in Bohemia ch3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/resources/A Scandal in Bohemia ch3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Moon and sixpence 1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/resources/Moon and sixpence 1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/bbc-fulltext.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/resources/bbc-fulltext.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/CompareSetsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/test/CompareSetsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/LshTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/test/LshTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1/src/test/MainTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,46 +53,95 @@
     <option name="hideWarnings" value="true" />
     <option name="HIDE_WARNINGS" value="true" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="594545884">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1771" />
+          <entry key="txt" value="69" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1771" />
+          <entry key="PLAIN_TEXT" value="69" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 1/src/main/Shingling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Shingling#0;class#Shingling#0" />
+                <element signature="method#generate#0;class#Shingling#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 1/src/main/MinHashing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="72" column="70" selection-start-line="72" selection-start-column="70" selection-end-line="72" selection-end-column="70" />
+              <folding>
+                <element signature="docComment;method#buildCharaMatrix#0;class#MinHashing#0" />
+                <element signature="method#buildCharaMatrix#0;class#MinHashing#0" />
+                <element signature="method#colSimilarity#0;class#MinHashing#0" />
+                <element signature="method#fillSimilarity#0;class#MinHashing#0" />
+                <element signature="method#printMatrix#0;class#MinHashing#0" />
+                <element signature="method#printMatrix#1;class#MinHashing#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+        <entry file="file://$PROJECT_DIR$/Homework 1/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="113">
+              <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/LSH.java">
+        <entry file="file://$PROJECT_DIR$/Homework 1/src/main/FileHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            <state relative-caret-position="233">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/LshTest.java">
+        <entry file="file://$PROJECT_DIR$/Homework 1/src/main/LSH.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/MainTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="720">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -87,75 +167,70 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/test.java" />
-        <option value="$PROJECT_DIR$/src/main/MinHashing.java" />
-        <option value="$PROJECT_DIR$/src/main/Main.java" />
         <option value="$PROJECT_DIR$/src/test/CompareSetsTest.java" />
         <option value="$PROJECT_DIR$/src/test/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/test/LshTest.java" />
         <option value="$PROJECT_DIR$/src/main/LSH.java" />
+        <option value="$PROJECT_DIR$/src/main/CompareSets.java" />
+        <option value="$PROJECT_DIR$/src/main/NovelReader.java" />
+        <option value="$PROJECT_DIR$/src/main/FileHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/Shingling.java" />
+        <option value="$PROJECT_DIR$/src/main/Hashing.java" />
+        <option value="$PROJECT_DIR$/src/test/LshTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/main/MinHashing.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/Homework 1/src/main/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="563" />
-    <option name="y" value="87" />
-    <option name="width" value="1409" />
-    <option name="height" value="888" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="700" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ID2222-Data-Mining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ID2222-Data-Mining" type="462c0819:PsiDirectoryNode" />
+              <item name="TextuallySimilarDocuments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextuallySimilarDocuments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ID2222-Data-Mining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ID2222-Data-Mining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TextuallySimilarDocuments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextuallySimilarDocuments" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ID2222-Data-Mining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ID2222-Data-Mining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ID2222-Data-Mining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ID2222-Data-Mining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ID2222-Data-Mining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ID2222-Data-Mining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ID2222-Data-Mining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="TextuallySimilarDocuments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573301221739" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../TextuallySimilarDocuments_java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -173,6 +248,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homework 1" />
       <recent name="C:\Users\hhoba\Documents\GitHub\ID2222-Data-Mining\src\resources" />
     </key>
   </component>
@@ -228,6 +304,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -247,135 +328,156 @@
       <option name="presentableId" value="Default" />
       <updated>1572967878704</updated>
       <workItem from="1572967880091" duration="19036000" />
+      <workItem from="1573300930821" duration="291000" />
     </task>
+    <task id="LOCAL-00001" summary="Re-construct the implementation of permutation and min-hashing">
+      <created>1573300022451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573300022451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19036000" />
+    <option name="totallyTimeSpent" value="25928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1380697" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21163167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.12181303" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SBT Execute" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3696884" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.562942" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.66760963" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3281471" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Re-construct the implementation of permutation and min-hashing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-construct the implementation of permutation and min-hashing" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/resources/SMSSpamCollection.txt">
+    <entry file="file://$PROJECT_DIR$/src/resources/SMSSpamCollection.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test.java" />
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/test/CompareSetsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132164">
-          <caret line="97" column="50" lean-forward="true" selection-start-line="97" selection-start-column="50" selection-end-line="97" selection-end-column="50" />
+        <state relative-caret-position="96">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/main/CompareSets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        <state relative-caret-position="264">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test.java">
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/test/LshTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Shingling.java">
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/test/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/CompareSets.java">
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/main/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="8" column="50" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CompareSetsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MinHashing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="45" column="50" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/LshTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="274">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#Permutation#0;class#Permutation#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/LSH.java">
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/main/Shingling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#Shingling#0;class#Shingling#0" />
+            <element signature="method#generate#0;class#Shingling#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/main/MinHashing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="70" selection-start-line="72" selection-start-column="70" selection-end-line="72" selection-end-column="70" />
+          <folding>
+            <element signature="docComment;method#buildCharaMatrix#0;class#MinHashing#0" />
+            <element signature="method#buildCharaMatrix#0;class#MinHashing#0" />
+            <element signature="method#colSimilarity#0;class#MinHashing#0" />
+            <element signature="method#fillSimilarity#0;class#MinHashing#0" />
+            <element signature="method#printMatrix#0;class#MinHashing#0" />
+            <element signature="method#printMatrix#1;class#MinHashing#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/main/LSH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/main/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 1/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
         </state>
       </provider>
     </entry>
