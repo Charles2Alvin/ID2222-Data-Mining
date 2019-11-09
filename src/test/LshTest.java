@@ -5,7 +5,6 @@ public class LshTest {
     private final int[][]signatureMatrix;
     private final int bands;
     private final int rows;
-    //    private final int buckets;
     private final double threshold;
 
     public LshTest(int[][]signatureMatrix, int bands, int rows, double threshold){

@@ -7,55 +7,60 @@ public class MinHashing {
     private LinkedList<Set<Integer>> documents;
     private int[][] characteristic;
     private int[][] signatureMatrix;
-    private int[][] permutation;
     private boolean printInfo;
     private float[][] similarity;
+    private int numDocs;    // the number of documents
+    private int sLength;    // the length of the whole shingle set
+
 
     public MinHashing(LinkedList<Set<Integer>> documents, int numPermutes, boolean printInfo) {
         this.documents = documents;
         this.numPermutes = numPermutes;
         this.printInfo = printInfo;
+        this.numDocs = documents.size();
+
+        buildCharaMatrix();
+        signatureMatrix = new int[numPermutes][];
+        for (int i = 0; i < numPermutes; i++) {
+            signatureMatrix[i] = new int[documents.size()];
+        }
     }
-    public MinHashing(LinkedList<Set<Integer>> documents, int numPermutes, boolean printInfo, int[][] characteristic) {
-        this.documents = documents;
-        this.numPermutes = numPermutes;
-        this.printInfo = printInfo;
-        this.characteristic = characteristic;
-    }
-    /*
-        Transform a collection of shingle sets to a characteristic matrix
+
+    /**
+     * Transform a collection of shingle sets to a characteristic matrix
+     * @return void
      */
     public void buildCharaMatrix() {
         if (printInfo) System.out.println("> generating characteristic matrix...");
+        // Collect all the shingles
         Set<Integer> shingles = new TreeSet<>();
         documents.forEach(shingles::addAll);
+        this.sLength = shingles.size();
+
         LinkedList<Integer> universal = new LinkedList<>(shingles);
-        characteristic = new int[shingles.size()][documents.size()];
-        for (int i = 0; i < documents.size(); i++) {
+        characteristic = new int[sLength][numDocs];
+        for (int i = 0; i < numDocs; i++) {
             Set doc = documents.get(i);
             for (int j = 0; j < shingles.size(); j++) {
                 characteristic[j][i] = doc.contains(universal.get(j)) ? 1 : 0;
             }
         }
     }
-    public int[][] buildSignatureMatrix() {
-        if (characteristic == null) buildCharaMatrix();
+    /**
+     *  Compute the signature matrix with permutation-based hashing
+     * @return
+     */
+    public int[][] getSignByPermute() {
         if (printInfo) System.out.println("> generating signature matrix...");
-        signatureMatrix = new int[numPermutes][];
-        for (int i = 0; i < numPermutes; i++) {
-            signatureMatrix[i] = new int[documents.size()];
-        }
-
-        // Generate the permutation matrix which works as a bunch of hash functions
-        permute();
-
+        double startTime = System.currentTimeMillis();
         // Fill the signature matrix with minHash value
         for (int p = 0; p < numPermutes; p++) {
+            ArrayList<Integer> permutes = new Permutation(sLength).nums;
             for (int i = 0; i < documents.size(); i++) {
                 // Compute the signature for the i-th document
-                for (int row = 0; row < permutation.length; row++) {
+                for (int row = 0; row < sLength; row++) {
                     // Traverse the rows in the permutation
-                    int index = permutation[row][p];
+                    int index = permutes.get(row);
                     if (characteristic[index][i] == 1) {
                         signatureMatrix[p][i] = row + 1;
                         break;
@@ -64,8 +69,8 @@ public class MinHashing {
             }
         }
         if (printInfo) {
-            System.out.println("> Signature matrix:");
-            printMatrix(signatureMatrix);
+            double interval = (System.currentTimeMillis() - startTime)/1000;
+            System.out.println("Time consumed: " + interval + " sec");
         }
         fillSimilarity();
         return signatureMatrix;
@@ -94,28 +99,7 @@ public class MinHashing {
             printMatrix(similarity);
         }
     }
-    public void permute() {
-        if (printInfo) System.out.println("> generating permutations...");
-        int size = characteristic.length;
-        LinkedList<Integer> nums = new LinkedList<>();
-        for (int i = 0; i < size; i++) {
-            nums.add(i);
-        }
-        List<List<Integer>> matrix = new LinkedList<>();
-        for (int i = 0; i < numPermutes; i++) {
-            matrix.add(new LinkedList<>(nums));
-        }
-        matrix.forEach(Collections::shuffle);
-        permutation = new int[size][];
-        for (int i = 0; i < size; i++) {
-            permutation[i] = new int[numPermutes];
-        }
-        for (int i = 0; i < numPermutes; i++) {
-            for (int j = 0; j < size; j++) {
-                permutation[j][i] = matrix.get(i).get(j);
-            }
-        }
-    }
+
     public void printMatrix(int[][] matrix) {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++) {
