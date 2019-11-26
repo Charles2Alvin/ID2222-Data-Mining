@@ -14,9 +14,8 @@ public class TriestBase {
             estimateTriangleSet = sampleTriangleSet;
         }
         else {
-            int intCoefficient = (int)coefficient;
             for (Map.Entry<String, Integer> entry : sampleTriangleSet.entrySet()){
-                estimateTriangleSet.put(entry.getKey(), entry.getValue()*intCoefficient);
+                estimateTriangleSet.put("Vertex("+entry.getKey()+")", (int)(entry.getValue()*coefficient));
             }
         }
         return estimateTriangleSet;

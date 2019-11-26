@@ -74,7 +74,7 @@ public class TriangleCount {
                     }
                 }
             }
-            trianglesNum.put("Vertex"+vertexes.get(i), vertexTriangle.size());
+            trianglesNum.put(vertexes.get(i), vertexTriangle.size());
         }
         trianglesNum.put("globalTriangle", triangleSet.size());
 
